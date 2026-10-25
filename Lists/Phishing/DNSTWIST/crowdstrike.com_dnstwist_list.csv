@@ -94,8 +94,9 @@ homoglyph,cr0vvdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.ne
 homoglyph,cr0wbstrike.com,,,,
 homoglyph,cr0wclstrike.com,,,,
 homoglyph,cr0wdlstrike.com,,,,
-homoglyph,cr0wdstr1ke.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
 homoglyph,cr0wdstrikc.com,,,,
+homoglyph,crovvdstrike.com,15.197.148.33,,mailstore1.secureserver.net,ns69.domaincontrol.com
+homoglyph,cr0wdstr1ke.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
 homoglyph,cr0wdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
 homoglyph,cr0wdstrilce.com,,,,
 homoglyph,cr0wdstrlke.com,,,,
@@ -105,7 +106,6 @@ homoglyph,crovudstrike.com,,,,
 homoglyph,crovvbstrike.com,,,,
 homoglyph,crovvclstrike.com,,,,
 homoglyph,crovvdlstrike.com,,,,
-homoglyph,crovvdstrike.com,15.197.148.33,,mailstore1.secureserver.net,ns69.domaincontrol.com
 homoglyph,crovvdstr1ke.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
 homoglyph,crovvdstrikc.com,,,,
 homoglyph,crovvdstrilce.com,,,,
@@ -7710,7 +7710,7 @@ insertion,dcrowdstrike.com,,,,
 insertion,fcrowdstrike.com,,,,
 insertion,vcrowdstrike.com,,,,
 insertion,xcrowdstrike.com,,,,
-omission,crowdstrik.com,23.216.147.140,2600:1409:9800:ef::17d8:938c,inbound-smtp.us-east-1.amazonaws.com,n2-a1.aka-ns.net
+omission,crowdstrik.com,23.46.228.166,2600:1409:9800:ef::17d8:938c,inbound-smtp.us-east-1.amazonaws.com,n2-a1.aka-ns.net
 omission,crwdstrike.com,8.8.8.8,,mail.crwdstrike.com,dns1.registrar-servers.com
 omission,cowdstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
 omission,crodstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
@@ -7794,7 +7794,7 @@ subdomain,crowdst.rike.com,!ServFail,!ServFail,,!ServFail
 subdomain,crowds.trike.com,64.190.63.222,,localhost,ns1.sedoparking.com
 subdomain,crowdstr.ike.com,,,,
 subdomain,crowdstri.ke.com,,,,
-transposition,crowdstriek.com,23.46.228.164,2600:1409:9800:1c::17d8:9147,,n2-a1.aka-ns.net
+transposition,crowdstriek.com,23.46.228.164,2600:1409:9800:ef::17d8:9387,,n2-a1.aka-ns.net
 transposition,corwdstrike.com,,,,eric.ns.cloudflare.com
 transposition,crodwstrike.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
 transposition,crowdsrtike.com,,,inbound-smtp.us-east-1.amazonaws.com,a1-214.akam.net
